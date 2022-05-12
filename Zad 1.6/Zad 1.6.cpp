@@ -37,6 +37,7 @@ void howMany(float sum)
         }
     } 
 }
+//nowa linijka
 int main()
 {
     float sum = 0;
