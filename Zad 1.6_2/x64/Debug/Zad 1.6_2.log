@@ -1,0 +1,4 @@
+﻿  Zad 1.6_2.cpp
+C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6_2\Zad 1.6_2.cpp(8,124): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6_2\Zad 1.6_2.cpp(19,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Zad 1.6_2.vcxproj -> C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6\x64\Debug\Zad 1.6_2.exe
