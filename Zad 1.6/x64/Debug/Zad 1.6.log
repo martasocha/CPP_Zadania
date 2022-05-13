@@ -1,4 +1,4 @@
 ﻿  Zad 1.6.cpp
-C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6\Zad 1.6.cpp(26,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6\Zad 1.6.cpp(34,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Zad 1.6.vcxproj -> C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\Zad 1.6\x64\Debug\Zad 1.6.exe
+C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\CPP_Zadania\Zad 1.6\Zad 1.6.cpp(26,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\CPP_Zadania\Zad 1.6\Zad 1.6.cpp(34,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Zad 1.6.vcxproj -> C:\Users\mkandyba.MPD1\source\repos\CPP_Zadania\CPP_Zadania\Zad 1.6\x64\Debug\Zad 1.6.exe
