@@ -4,10 +4,6 @@ bool checkPhoneNumber(int number)
 {
     int numOfDigits = 0;
 
-    if (number == 0)
-    {
-        return 0;
-    }
     while (number != 0)
     {
         number = number / 10;

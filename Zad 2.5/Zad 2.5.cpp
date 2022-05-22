@@ -1,9 +1,10 @@
 #include <iostream>
+#include <iomanip>
 #include <cmath>
 
-float roundFunction(float number, int n)
+double roundFunction(double number, int n)
 {
-    float num = 0;
+    double num = 0;
 
     int a = 0;
     a = pow(10, n);
@@ -13,9 +14,14 @@ float roundFunction(float number, int n)
 
 int main()
 {
-    float number = 12.4543645;
+    double number = 12.4543645;
     int n = 0;
     n = 3;
-    std::cout << roundFunction(number,n);
+    std::cout << std::setprecision(10) << number << std::endl;
+
+    std::cout << std::setprecision(10) << roundFunction(number,2) << std::endl;
+    std::cout << std::setprecision(10) << roundFunction(number,3) << std::endl;
+    std::cout << std::setprecision(10) << roundFunction(number,4) << std::endl;
+    std::cout << std::setprecision(10) << roundFunction(number,5) << std::endl;
 }
 

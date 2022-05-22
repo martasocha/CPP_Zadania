@@ -20,30 +20,26 @@ double add4(short int a, short int b)
     return a + b;
 }
 
-short int add5(short int a, short int b)
-{
-    return a + b;
-}
 
 int main()
 {
     short int a = 102;
     short int b = 123;
 
-    //int a = 2147483;
-    //int b = 3276742;
+    int a1 = 2147483;
+    int b1 = 3276742;
 
-    //long long int a = 92233720368547758;
-    //long long int b =/ 34433720368547758;
+    long long int a2 = 92233720368547758;
+    long long int b2 = 34433720368547758;
 
-    //double a = 102.342;
-    //double b = 123.234;
+    double a3 = 102.342;
+    double b3 = 123.234;
+
 
     std::cout << add1(a, b) << std::endl;
-    std::cout << add2(a, b) << std::endl;
-    std::cout << add3(a, b) << std::endl;
-    std::cout << add4(a, b) << std::endl;
-    std::cout << add5(a, b) << std::endl;
+    std::cout << add2(a1, b1) << std::endl;
+    std::cout << add3(a2, b2) << std::endl;
+    std::cout << add4(a3, b3) << std::endl;
 
 
 }
